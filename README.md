@@ -9,7 +9,7 @@ to create this app following tech and tools are used-
 * firebase hosting
 * material UI
 
-App [react-chat-app]("https://chat-app-react-6d318.web.app/")
+App link [react-chat-app](https://chat-app-react-6d318.web.app/)
 
 In the project directory, you can run:
 
